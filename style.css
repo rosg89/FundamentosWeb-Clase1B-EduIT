@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script:wght@700&display=swap');
+
+body {
+    color: rgb(255, 64, 182);
+    background-color: rgb(255, 241, 254);
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+
+
+p, ul {
+    color: rgb(190, 140, 236);
+}
+
+h2{
+    font-family: 'Dancing Script', cursive;      
+    font-size: 2em;
+}
+
+h2 strong {
+    color: rgb(131, 210, 255);
+
+}
+
+p strong {
+    color: rgb(130, 61, 194);
+}
+
+h1 {
+    font-size: 3em;
+    background-color: rgb(255, 203, 252);
+    font-family: 'Dancing Script', cursive;
+
+    
+}
